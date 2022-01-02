@@ -25,4 +25,8 @@ Accuracy 0,82
 ![image](https://user-images.githubusercontent.com/34160094/147876569-1afb5415-877a-4f04-977b-285be01f018b.png)
 
 
+
+
+
+
 ![image](https://user-images.githubusercontent.com/34160094/147870171-75c6644c-c7e2-42a3-8616-6dad4f71f557.png)
